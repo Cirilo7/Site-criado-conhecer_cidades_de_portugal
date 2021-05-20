@@ -4,14 +4,34 @@ font-size: 16px;
 }
 
 body{
-    background-color: honeydew;
+    background-color:mintcream;
 }
 
 
 main{
-    background-color: seagreen;
+    background-color:darkgrey;
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px brown;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+
+h2{
+    font-size: 1.5em;
+    color:white;
+}
+
+a{
+    text-decoration:none;
+    font-weight: bold;
+    color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+    color:darkolivegreen;
 }
